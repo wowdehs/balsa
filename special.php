@@ -37,7 +37,7 @@
                     <p>İnce acılan kat kat sıcak boyozlar</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.avlaremoz.com%2F2019%2F05%2F25%2Fbir-kultur-mirasi-boyoz%2F&psig=AOvVaw2A0rpgbf88AIKdL3tL98n4&ust=1635275878154000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDomcij5vMCFQAAAAAdAAAAABAY" alt="" class="img-fluid">
+                    <img src="https://www.avlaremoz.com/wp-content/uploads/2019/05/izmir_boyoz3.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
