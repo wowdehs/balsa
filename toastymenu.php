@@ -21,7 +21,7 @@
 
           <div class="col-lg-6 menu-item filter-starters">
             <div class="menu-content">
-              <a href="#">Kahvaltılık</a><span>5.95</span>
+              <a href="#">Kahvaltılık</a><span></span>
             </div>
             <div class="menu-ingredients">
        Yumurta vs.....
@@ -30,7 +30,7 @@
 
           <div class="col-lg-6 menu-item filter-specialty">
             <div class="menu-content">
-              <a href="#">Mozaik Pasta</a><span>6.95</span>
+              <a href="#">Mozaik Pasta</a><span></span>
             </div>
             <div class="menu-ingredients">
         Cıkolata bıskuvi ... 
@@ -39,7 +39,7 @@
 
           <div class="col-lg-6 menu-item filter-starters">
             <div class="menu-content">
-              <a href="#">Serpme </a><span>7.95</span>
+              <a href="#">Serpme </a><span></span>
             </div>
             <div class="menu-ingredients">
             Yumurta bal Recel ...
@@ -48,7 +48,7 @@
 
           <div class="col-lg-6 menu-item filter-salads">
             <div class="menu-content">
-              <a href="#">Limonata</a><span>8.95</span>
+              <a href="#">Limonata</a><span></span>
             </div>
             <div class="menu-ingredients">
        Dogal sıkım
@@ -57,7 +57,7 @@
 
           <div class="col-lg-6 menu-item filter-specialty">
             <div class="menu-content">
-              <a href="#">Snıcker</a><span>9.95</span>
+              <a href="#">Snıcker</a><span></span>
             </div>
             <div class="menu-ingredients">
               Cıkolata fındık
@@ -66,7 +66,7 @@
 
           <div class="col-lg-6 menu-item filter-starters">
             <div class="menu-content">
-              <a href="#">SOGUS TABAGI </a><span>4.95</span>
+              <a href="#">SOGUS TABAGI </a><span></span>
             </div>
             <div class="menu-ingredients">
               Peynır Zeytın
@@ -75,7 +75,7 @@
 
           <div class="col-lg-6 menu-item filter-salads">
             <div class="menu-content">
-              <a href="#">Cay</a><span>9.95</span>
+              <a href="#">Cay</a><span></span>
             </div>
             <div class="menu-ingredients">
               Demlı oflu cay
@@ -84,7 +84,7 @@
 
           <div class="col-lg-6 menu-item filter-salads">
             <div class="menu-content">
-              <a href="#">Portakal suyu</a><span>9.95</span>
+              <a href="#">Portakal suyu</a><span></span>
             </div>
             <div class="menu-ingredients">
                 Dogal Sıkım
@@ -93,7 +93,7 @@
 
           <div class="col-lg-6 menu-item filter-specialty">
             <div class="menu-content">
-              <a href="#">Supangle</a><span>12.95</span>
+              <a href="#">Supangle</a><span></span>
             </div>
             <div class="menu-ingredients">
           Supangle = Puding
