@@ -12,10 +12,10 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown"><span>Balsa</span> Fırın Ve Cafe</h2>
-                <p class="animate__animated animate__fadeInUp">Balsa Slogan Yazı Ve Konuları</p>
+                <p class="animate__animated animate__fadeInUp"> Lezzeten daha öte </p>
                 <div>
                   <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Ürün Listesi</a>
-                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Etkinlik Ayarla</a>
+                  <a href="#contact" class="btn-book animate__animated animate__fadeInUp scrollto">İletişim</a>
                 </div>
               </div>
             </div>
@@ -25,11 +25,11 @@
           <div class="carousel-item" style="background: url(assets/img/slide/d1.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Baska Baslıklar</h2>
-                <p class="animate__animated animate__fadeInUp">Balsa Slogan Yazı Ve Konuları</p>
+                <h2 class="animate__animated animate__fadeInDown">Balsa Fırın Ve Cafe</h2>
+                <p class="animate__animated animate__fadeInUp">Lezzeten daha öte </p>
                 <div>
                   <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Ürün Listesi</a>
-                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Book a Table</a>
+                  <a href="#contact" class="btn-book animate__animated animate__fadeInUp scrollto">İletişim</a>
                 </div>
               </div>
             </div>
