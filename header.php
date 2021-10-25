@@ -22,8 +22,7 @@
           <li><a class="nav-link scrollto" href="#about">Hakkımızda</a></li>
           <li><a class="nav-link scrollto" href="#menu">Ürün Listemiz</a></li>
           <li><a class="nav-link scrollto" href="#specials">En Sevilenler</a></li>
-          <li><a class="nav-link scrollto" href="#events">Etkinlikler</a></li>
-          <li><a class="nav-link scrollto" href="#chefs">Şeflerimiz</a></li>
+       
           <li><a class="nav-link scrollto" href="#gallery">Galleri</a></li>
           <li class="dropdown"><a href="#"><span>Şubelerimiz</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -42,12 +41,12 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">İletişim</a></li>
+       
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#book-a-table" class="book-a-table-btn scrollto">Etkinlik Ayarla</a>
+      <a href="#contact" class="book-a-table-btn scrollto">İletişim Kur</a>
 
     </div>
   </header><!-- End Header -->
