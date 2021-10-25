@@ -29,8 +29,7 @@
   <?php   require_once "toastymenu.php" ?>
 
   <?php   require_once "special.php" ?>
-  <?php   require_once "organize.php" ?>
-  <?php   require_once "events.php" ?>
+
 
   <?php   require_once "galeri.php" ?>
   
