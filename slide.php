@@ -22,7 +22,7 @@
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background: url(assets/img/slide/s2.jpg);">
+          <div class="carousel-item" style="background: url(assets/img/slide/d1.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Baska Baslıklar</h2>
