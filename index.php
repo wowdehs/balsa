@@ -35,9 +35,7 @@
   <?php   require_once "galeri.php" ?>
   
 
-  <?php   require_once "chef.php" ?>
-
-  <?php   require_once "criticism.php" ?>
+ 
   <?php   require_once "contact.php" ?>
    
   <?php   require_once "footer.php" ?>
