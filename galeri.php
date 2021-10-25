@@ -3,8 +3,8 @@
       <div class="container-fluid">
 
         <div class="section-title">
-          <h2>Bazı Fotoğralar <span>Restorantan</span></h2>
-          <p>Etkinlikler vs.. Ürünler Çalısanlar</p>
+          <h2>Galleri <span>Balsa</span></h2>
+        
         </div>
 
         <div class="row no-gutters">
