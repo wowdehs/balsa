@@ -33,7 +33,7 @@
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Boyoz </h3>
-                    <p class="fst-italic">Urun Detayı</p>
+                
                     <p>İnce acılan kat kat sıcak boyozlar</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
