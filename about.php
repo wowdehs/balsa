@@ -13,19 +13,9 @@
             <div class="content">
               <h3>Bir Yaşam <strong>Havalı sözer</strong></h3>
               <p>
-               Anlatım yapılacak balsa su su sekılde kuruldu su sekılde hızmet vermekte
+            1992 yılında Buca Kozağaç'ta ilk fırın açıldı. Aile şirketi kuran Bal, 2008 yılında ise yoluna Balsa Unlu Mamülleri olarak devam etti. Krizlere karşın yatırım kararı alan İfran Bal, Buca, Altındağ ve Gaziemir'de toplam 17 unlu mamüller satış mağazası açtı
               </p>
-              <p class="fst-italic">
-                Asagı listede ideaları yazılacak
-              </p>
-              <ul>
-                <li><i class="bx bx-check-double"></i> Temiz Ve hızlı hizmet</li>
-                <li><i class="bx bx-check-double"></i> Güler yüzlü çalışanlar</li>
-                <li><i class="bx bx-check-double"></i> Çalışkan yöneticiler</li>
-              </ul>
-              <p>
-             Devamı yazılıp yazılmaması 
-              </p>
+       
             </div>
 
           </div>
