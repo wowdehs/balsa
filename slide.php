@@ -35,20 +35,8 @@
             </div>
           </div>
 
-          <!-- Slide 3 -->
-          <div class="carousel-item" style="background: url(assets/img/slide/s3.jpg);">
-            <div class="carousel-background"><img src="assets/img/slide/s3.jpg" alt=""></div>
-            <div class="carousel-container">
-              <div class="carousel-content">
-              <h2 class="animate__animated animate__fadeInDown">Baska Baslıklar</h2>
-              <p class="animate__animated animate__fadeInUp">Balsa Slogan Yazı Ve Konuları</p>
-                <div>
-                  <a href="#menu" class="btn-menu animate__animated animate__fadeInUp scrollto">Ürün Listesi</a>
-                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Etkinlik Ayarla</a>
-                </div>
-              </div>
-            </div>
-          </div>
+       
+   
 
         </div>
 
