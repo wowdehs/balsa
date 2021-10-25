@@ -4,14 +4,14 @@
 
         <div class="section-title">
           <h2>En <span>Sevilenler</span></h2>
-          <p>İsteğe baglı Yazı</p>
+     
         </div>
 
         <div class="row">
           <div class="col-lg-3">
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
-                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Beyaz Cıkolatalı Pasta</a>
+                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Boyoz</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Cıleklı Pasts</a>
@@ -32,12 +32,12 @@
               <div class="tab-pane active show" id="tab-1">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Icındekıler </h3>
+                    <h3>Boyoz </h3>
                     <p class="fst-italic">Urun Detayı</p>
-                    <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                    <p>İnce acılan kat kat sıcak boyozlar</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-1.jpg" alt="" class="img-fluid">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.avlaremoz.com%2F2019%2F05%2F25%2Fbir-kultur-mirasi-boyoz%2F&psig=AOvVaw2A0rpgbf88AIKdL3tL98n4&ust=1635275878154000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDomcij5vMCFQAAAAAdAAAAABAY" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
